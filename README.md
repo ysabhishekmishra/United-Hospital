@@ -2,13 +2,16 @@
 
 United Hospital is a web-based application built using HTML, CSS, JavaScript, Node.js, and Express.js. It aims to streamline the consultancy work of a hospital and manage all activities online, reducing the reliance on paper-based processes. The application supports two types of users: Super User/Admin and Patients.
 
+![image-20230711134947514](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711134947514.png)
+
+![image-20230711135024962](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135024962.png)
+
 ## Features
 
 - **Super User/Admin Functionality:**
   - Add and manage doctors' information.
   - Manage patient records.
   - Ensure the smooth flow of the entire hospital chain.
-
 - **Patient Functionality:**
   - Access prescriptions online, eliminating the need for physical files.
   - Receive bills and medicine prescriptions directly on their phones.
@@ -19,7 +22,7 @@ United Hospital is a web-based application built using HTML, CSS, JavaScript, No
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/united-hospital.git
+   git clone https://github.com/your-username/united-hospital.git```
    ```
 
 2. Install the dependencies:
@@ -36,6 +39,38 @@ npm start
   ```
 
 4.Access the application in your web browser at http://localhost:8100
+
+## ScreenShorts
+
+- **Login Page (Common For All Admin Patient)**
+
+![image-20230711135210726](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135210726.png)
+
+- **Registration Page**
+
+  ![image-20230711135411507](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135411507.png)
+
+- **Admin Dashboard**
+
+  ![image-20230711135456342](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135456342.png)![image-20230711135537935](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135537935.png)
+
+- **Doctor Adding**
+
+  ![image-20230711135652878](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135652878.png)
+
+- **Patient Dashboard**
+
+  ![image-20230711135723011](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135723011.png)
+
+- ****
+
+  **Patient Profile**
+
+  ![image-20230711135935224](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135935224.png)
+
+- **Patient Medical Prescription List**
+
+  ![image-20230711140048254](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711140048254.png)
 
 ## Dependencies
 
