@@ -45,34 +45,37 @@ npm start
 ## ScreenShorts
 
 - **Login Page (Common For All Admin Patient)**
-
-![image-20230711135210726](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135210726.png)
+  ![Screenshot 2023-07-11 135045](https://github.com/ysabhishekmishra/United-Hospital/assets/91816339/0803f1a3-0801-4c6a-857c-f819dc6e2075)
 
 - **Registration Page**
 
-  ![image-20230711135411507](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135411507.png)
+  ![Screenshot 2023-07-11 135409](https://github.com/ysabhishekmishra/United-Hospital/assets/91816339/3bca8808-4e94-41a6-9f70-5c66ac508626)
 
 - **Admin Dashboard**
 
-  ![image-20230711135456342](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135456342.png)![image-20230711135537935](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135537935.png)
+  ![Screenshot 2023-07-11 135454](https://github.com/ysabhishekmishra/United-Hospital/assets/91816339/0e8b54f7-5676-4ebe-86ea-ef18eeb96642)
+  ![Screenshot 2023-07-11 135531](https://github.com/ysabhishekmishra/United-Hospital/assets/91816339/3a600c26-d74b-41ee-91a4-966670d8096d)
 
 - **Doctor Adding**
 
-  ![image-20230711135652878](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135652878.png)
+  ![Screenshot 2023-07-11 135650](https://github.com/ysabhishekmishra/United-Hospital/assets/91816339/8c197770-a2a7-4164-ac8f-021dda5aaffc)
+
 
 - **Patient Dashboard**
 
-  ![image-20230711135723011](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135723011.png)
+  ![Screenshot 2023-07-11 135720](https://github.com/ysabhishekmishra/United-Hospital/assets/91816339/657cba91-d587-4d57-b15e-fd1bb44de79e)
+
 
 - ****
 
   **Patient Profile**
 
-  ![image-20230711135935224](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135935224.png)
+  ![Screenshot 2023-07-11 135739](https://github.com/ysabhishekmishra/United-Hospital/assets/91816339/ff9dbe55-6292-41f9-8dee-630de3df07b2)
+
 
 - **Patient Medical Prescription List**
-
-  ![image-20230711140048254](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711140048254.png)
+  
+  ![Screenshot 2023-07-11 140044](https://github.com/ysabhishekmishra/United-Hospital/assets/91816339/a1cebeb5-2210-4e2b-8b5a-e4b65a35ebd4)
 
 ## Dependencies
 
