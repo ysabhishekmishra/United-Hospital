@@ -20,41 +20,55 @@ United Hospital is a web-based application built using HTML, CSS, JavaScript, No
 
    ```bash
    git clone https://github.com/your-username/united-hospital.git```
+   ```
 
 2. Install the dependencies:
 
   ```bash
   cd united-hospital
   npm install
+  ```
 
 3.Start the application:
 
   ```bash
-  npm start
+npm start
+  ```
 
-4.Access the application in your web browser at http://localhost:3000
+4.Access the application in your web browser at http://localhost:8100
 
-##Dependencies
--Node.js
--Express.js
--MongoDB (or any other compatible database)
--// Add any other dependencies or libraries used in your project
+## Dependencies
 
-##Contributing
+- Node.js
+- Express.js
+- MongoDB (or any other compatible database)
+- // Add any other dependencies or libraries used in your project
+
+## Contributing
+
 **Contributions are welcome! If you'd like to contribute to the United Hospital project, please follow these steps:**
 
--Fork the repository.
--Create a new branch for your feature/bug fix.
--Make your changes and commit them.
--Push your changes to your forked repository.
--Submit a pull request describing your changes.
+- Fork the repository.
 
-##License
+- Create a new branch for your feature/bug fix.
+
+- Make your changes and commit them.
+
+- Push your changes to your forked repository.
+
+- Submit a pull request describing your changes.
+
+  
+
+## License
+
 **MIT License**
 
-##Acknowledgements
--// Mention any individuals or resources you'd like to acknowledge for their contributions or inspiration.
-Contact
--If you have any questions or suggestions regarding the United Hospital project, please feel free to reach out to us at ysabhishekmishra@gmail.com
 
--We appreciate your interest and support in making the United Hospital project a success!
+
+## Acknowledgments
+
+- // Mention any individuals or resources you'd like to acknowledge for their contributions or inspiration.
+  Contact
+- If you have any questions or suggestions regarding the United Hospital project, please feel free to reach out to us at ysabhishekmishra@gmail.com
+- We appreciate your interest and support in making the United Hospital project a success!
