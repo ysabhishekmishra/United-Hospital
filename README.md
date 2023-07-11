@@ -6,6 +6,7 @@ United Hospital is a web-based application built using HTML, CSS, JavaScript, No
 
 ![Screenshot 2023-07-11 135021](https://github.com/ysabhishekmishra/United-Hospital/assets/91816339/20d9b6e7-f5c6-4c83-8f76-682c10409b85)
 
+![image](https://github.com/ysabhishekmishra/United-Hospital/assets/91816339/b4f09409-35af-446f-a82a-7771d4af10eb)
 
 ## Features
 
