@@ -19,13 +19,13 @@ United Hospital is a web-based application built using HTML, CSS, JavaScript, No
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/united-hospital.git
+   git clone https://github.com/your-username/united-hospital.git```
 
 2.Install the dependencies:
 
   ```bash
   cd united-hospital
-  npm install
+  npm install```
 3.Start the application:
 
   ```bash
