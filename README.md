@@ -2,7 +2,7 @@
 
 United Hospital is a web-based application built using HTML, CSS, JavaScript, Node.js, and Express.js. It aims to streamline the consultancy work of a hospital and manage all activities online, reducing the reliance on paper-based processes. The application supports two types of users: Super User/Admin and Patients.
 
-![image-20230711134947514](Screenshort\image-20230711134947514.png)
+![image-20230711134947514](Screenshort/Screenshot 2023-07-11 134925.png)
 
 ![image-20230711135024962](C:\Users\vidya\AppData\Roaming\Typora\typora-user-images\image-20230711135024962.png)
 
